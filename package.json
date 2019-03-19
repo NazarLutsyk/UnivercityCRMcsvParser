@@ -1,0 +1,17 @@
+{
+  "name": "UnivercityCRMcsvParser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "csvparse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fast-csv": "^2.4.1",
+    "iconv-lite": "^0.4.24",
+    "mysql2": "^1.6.5"
+  }
+}
